@@ -1,0 +1,10 @@
+#wallpaper{
+    background-image: url(assets/wallpaper.jpeg);
+    min-height: 100vh;
+    width: 70%;
+    background-size: cover;
+}
+#login_text{
+    height: 60px;
+    opacity: 0.6;
+}
